@@ -1,0 +1,2 @@
+The training data video is 20:11 long.
+training_data.txt in the other folder contains centroid points for 20:00 of this video. Centroid data for the other 11 seconds will not be provided.
